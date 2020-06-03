@@ -1,2 +1,0 @@
-# CodeSandboxCRA
-Created with CodeSandbox
